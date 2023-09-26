@@ -19,4 +19,4 @@ def cambiar_letras(palabra):
 # Ejemplo de uso:
 palabra_original = "miami"
 nueva_palabra = cambiar_letras(palabra_original)
-print(nueva_palabra)  # Esto imprimirá "MaIAMI"
+print('mejor aprende rust pa')

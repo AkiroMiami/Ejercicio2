@@ -20,5 +20,8 @@ def cambiar_letras(palabra):
 palabra_original = "miami"
 nueva_palabra = cambiar_letras(palabra_original)
 print(nueva_palabra)  # Esto imprimirá "MaIAMI"
-
+# yisus
 print("cambiado de otra rama, oullea")
+=======
+print('mejor aprende rust pa')
+# main

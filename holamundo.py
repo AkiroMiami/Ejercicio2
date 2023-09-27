@@ -25,4 +25,5 @@ print(nueva_palabra)  # Esto imprimirá "MaIAMI"
 print("cambiado de otra rama, oullea")
 #=======
 print('mejor aprende rust pa') + print("asco")
+print("oi teme")
 # main

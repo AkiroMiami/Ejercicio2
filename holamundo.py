@@ -28,4 +28,5 @@ print('mejor aprende rust pa') + print("asco")
 print("oi teme")
 print("ya no quiero chambear")
 print("soy un cambio de la caracteristica ou llea")
+print("cara")
 # main

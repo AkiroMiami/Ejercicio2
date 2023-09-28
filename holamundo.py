@@ -27,10 +27,14 @@ print("cambiado de otra rama, oullea")
 print('mejor aprende rust pa') + print("asco")
 print("oi teme")
 print("ya no quiero chambear")
+# arregloscaracteristicas
+print("soy una corrdeccion a la caracteristica nueva oullea")
+=======
 # caracteristica-nueva
 print("soy un cambio de la caracteristica ou llea")
 print("cara")
 =======
 print("soy una corrdeccion a la caracteristica nueva")
+# main
 # main
 # main

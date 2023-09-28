@@ -26,4 +26,5 @@ print("cambiado de otra rama, oullea")
 #=======
 print('mejor aprende rust pa') + print("asco")
 print("oi teme")
+print("ya no quiero chambear")
 # main
